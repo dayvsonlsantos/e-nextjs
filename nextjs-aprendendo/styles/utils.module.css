@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+.padding_1rem {
+    padding: 1rem;
+}
+
+.margin_1rem {
+    padding: 1rem;
+}
+
+.border_radius{
+    border-radius: 20px;
+}
+
+.border_radius_circle{
+    border-radius: 100%;
+}
+
+.hoverPurple:hover{
+    color: rgb(72, 72, 255);
+}
