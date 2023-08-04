@@ -10,6 +10,8 @@ export default function Navbar() {
             <Link className={`${utils.padding_1rem} ${utils.hoverPurple}`} href="/products/shirts/greenshirt">Camisa Verde</Link>
             <Link className={`${utils.padding_1rem} ${utils.hoverPurple}`} href="/products/shirts/yellowshirt">Camisa Amarela</Link>
             <Link className={`${utils.padding_1rem} ${utils.hoverPurple}`} href="/desenvolvedores">Desenvolvedores</Link>
+            <Link className={`${utils.padding_1rem} ${utils.hoverPurple}`} href="/todos">Todos</Link>
+            <Link className={`${utils.padding_1rem} ${utils.hoverPurple}`} href="/dados">Dados</Link>
         </nav>
     )
 }
